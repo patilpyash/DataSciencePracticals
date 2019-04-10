@@ -1,1 +1,1 @@
-# DataSciencePracticals
+This is for practicals purpose
